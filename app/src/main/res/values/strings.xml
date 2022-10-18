@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UTS - Kalkulator Mini</string>
+    <string name="txtTambah">0</string>
+    <string name="txtKali">0</string>
+    <string name="txtResult">Hasil</string>
+    <string name="txtButtonTambah">Tambah</string>
+    <string name="txtButtonKali">Kali</string>
+</resources>
