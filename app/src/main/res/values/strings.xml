@@ -4,5 +4,7 @@
     <string name="txtKali">0</string>
     <string name="txtResult">Hasil</string>
     <string name="txtButtonTambah">Tambah</string>
+    <string name="txtButtonKurang">Kurang</string>
     <string name="txtButtonKali">Kali</string>
+    <string name="txtButtonBagi">Bagi</string>
 </resources>
